@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @z-a-y-a-n
+- 👀 I’m interested in Tech,Python and Kali(hacking)
+- 🌱 I’m currently learning Data Science with python
+- **I have a youtube channel where u can follow me _@white_tiger698_**
+- I will post videos about termux, python, arduino and etc...
+- ***Kindly subscribe if you like my videos and if you're a fan of VS code.***
